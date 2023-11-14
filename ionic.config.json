@@ -1,0 +1,7 @@
+{
+  "name": "ppmP10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
